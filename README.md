@@ -29,6 +29,6 @@ _"The website revealing the final clue can be found in the 'address' column of t
 `pip install -r requirements.txt`
 
 ### More Info:
-Copyright Data Stack Academy, 2022. https://www.datastack.academy/(https://www.datastack.academy/)
+Copyright Data Stack Academy, 2022. [https://www.datastack.academy/](https://www.datastack.academy/)
 
 The treat values were generated using [Cupcake Ipsum](http://www.cupcakeipsum.com/), and other values were generated with Python's wonderful [Faker package](https://faker.readthedocs.io/en/master/index.html).
